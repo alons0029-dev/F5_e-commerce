@@ -10,7 +10,22 @@ To know how to install our project, check out the
 [installation guide](#installation-guide)
 
 # Gallery
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
 
 # Tools
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
 
 # Installation Guide
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
