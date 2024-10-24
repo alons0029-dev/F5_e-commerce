@@ -1,0 +1,8 @@
+- Precio (€)
+
+- Descripción
+
+- Características
+    - Tipo asset
+    - Peso archivos
+    - Artistas
