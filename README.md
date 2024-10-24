@@ -7,7 +7,7 @@ The owners of the project are:
 - [@alons0029-dev](https://github.com/alons0029-dev)
 
 To know how to install our project, check out the 
-[installation guide](#Installation Guide)
+[installation guide](#installation-guide)
 
 # Gallery
 
