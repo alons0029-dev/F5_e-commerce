@@ -17,11 +17,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure labor
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
 
 # Tools
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
+[Markdown Editor](https://stackedit.io/) for README.md
 
 # Installation Guide
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere fuga iure laboriosam neque? Aut doloremque, culpa incidunt earum reprehenderit unde et ex ipsam repellendus minima modi cupiditate molestiae at ut.
