@@ -46,17 +46,7 @@
     - [ ] Installation Guide
 
 
-
-
-
-
-
-
-- Precio (€)
-
-- Descripción
-
-- Características
-    - Tipo asset
-    - Peso archivos
-    - Artistas
+# CARD DESIGN
+- General Description
+- Artist
+- File Size
