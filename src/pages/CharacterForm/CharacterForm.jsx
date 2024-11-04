@@ -1,6 +1,6 @@
 
 // Components
-import CharacterAdd from "../../assets/components/CharacterForm/CharacterAdd";
+import CharacterAdd from "../../assets/components/CharacterAdd/CharacterAdd";
 
 // Style
 import "./character-form.css";
