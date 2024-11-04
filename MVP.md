@@ -47,6 +47,7 @@
 
 
 # CARD DESIGN
+- Name
 - General Description
 - Artist
 - File Size
