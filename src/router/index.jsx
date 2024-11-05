@@ -3,13 +3,12 @@
 import { createBrowserRouter } from "react-router-dom";
 
 // Pages
-import CharacterForm from "../pages/CharacterForm/CharacterForm";
-
+import Home from "../pages/Home/Home";
 
 /* ROUTER */
 export const router = createBrowserRouter([
     {
         path: "/",
-        element: <CharacterForm />
+        element: <Home/>
     }
 ])
