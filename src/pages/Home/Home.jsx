@@ -1,6 +1,6 @@
 
-// Components
-import AdminForm from "../../assets/components/Atoms/AdminForm/AdminForm"
+// Pages
+import Characters from "../Characters/Characters";
 
 // Style
 import "./home.css";
@@ -8,7 +8,7 @@ import "./home.css";
 const Home = () => {
   return (
     <>
-        <AdminForm />
+      <Characters />
     </>
   )
 }
