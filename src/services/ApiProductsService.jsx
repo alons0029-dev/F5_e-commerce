@@ -21,13 +21,13 @@ const createCharacter = async (createCharacter) => {
 
 // CRUD - Update (In progress)
 const updateCharacter = async (updateCharacter) => {
-    const response = await axios.post(apiCharactersUrl, updateCharacter);
+    const response = await axios.put(apiCharactersUrl, updateCharacter);
     return response.data;
 }
 
 // CRUD - Delete (In progress)
 const deleteCharacter = async (deleteCharacter) => {
-    const response = await axios.post(apiCharactersUrl, deleteCharacter);
+    const response = await axios.delete(apiCharactersUrl, deleteCharacter);
     return response.data;
 }
 
