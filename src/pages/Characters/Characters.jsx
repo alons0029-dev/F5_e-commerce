@@ -6,6 +6,9 @@ import { useEffect } from "react";
 // Service Component
 import { getAllCharacters } from "../../services/ApiProductsService";
 
+// Images
+import characterPlaceholder from "../../assets/images/character-placeholder.png";
+
 // Style
 import "./characters.css";
 import { Link } from "react-router-dom";
@@ -40,7 +43,7 @@ const Characters = () => {
                             {/* Add UPDATE Icon */}
                             <div className="character-container">
                                 <h3 className="character-title">{character.title}</h3>
-                                {/* Add Character IMG */}
+                                <img src={characterPlaceholder} alt="character image" />
                                 <p className="character-artist">{character.artist}</p>
                                 <p className="character-description">{character.description}</p>
                             </div>
