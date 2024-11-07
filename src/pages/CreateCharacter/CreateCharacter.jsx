@@ -60,14 +60,14 @@ const CreateCharacter = () => {
                     onChange={ (event) => setDescriptionCharacter(event.target.value) }
                 /> 
             </div>
+            <button type="submit">
+                {/* Add ADD Icon */}
+                Add
+            </button>
             {/* Add Cancel Link */}
             <button>
                 {/* Add CANCEL Icon */}
                 Cancel
-            </button>
-            <button type="submit">
-                {/* Add ADD Icon */}
-                Add
             </button>
         </form>
     )

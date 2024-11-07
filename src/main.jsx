@@ -10,6 +10,7 @@ import { router } from './router';
 // Style
 import "./index.css";
 
+/* FUNCTIONALITY */
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <RouterProvider router={router} />
