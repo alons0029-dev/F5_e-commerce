@@ -1,14 +1,20 @@
 
+
+// SERVICE Components
+
 // Pages
-import Characters from "../Characters/Characters";
+import CharacterList from "../../components/CharacterList/CharacterList";
 
 // Style
 import "./home.css";
 
 const Home = () => {
+
+ 
+
   return (
     <>
-      <Characters />
+      <CharacterList />
     </>
   )
 }
