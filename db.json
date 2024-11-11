@@ -1,12 +1,6 @@
 {
   "characters": [
     {
-      "id": "1",
-      "title": "Character 01",
-      "artist": "Artist 01",
-      "description": "Duis et ornare nunc. Aenean laoreet a neque ac elementum. Aenean dictum cursus augue, a egestas lorem iaculis at. Mauris consectetur luctus dictum. Fusce quis ornare lectus, quis lobortis mi. Pellentesque enim sem, dictum vel faucibus ut, bibendum et urna. Phasellus dolor libero, consequat a consequat sed, fermentum ut est. Aenean dapibus est vitae risus viverra, vel scelerisque massa vestibulum. Fusce laoreet ultricies tortor et suscipit."
-    },
-    {
       "id": "2",
       "title": "Character 02",
       "artist": "Artist 02",

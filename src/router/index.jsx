@@ -4,8 +4,9 @@ import { createBrowserRouter } from "react-router-dom";
 
 // Pages
 import Home from "../pages/Home/Home";
-import CharacterListPage from "../pages/CharacterListPage/CharacterListPage";
-import CharacterFormPage from "../pages/CharacterFormPage/CharacterFormPage";
+import Characters from "../pages/Characters/Characters";
+import CreateCharacter from "../pages/CreateCharacter/CreateCharacter";
+import UpdateCharacter from "../pages/UpdateCharacter/UpdateCharacter";
 import NotFound from "../pages/NotFound/NotFound";
 
 /* ROUTER */
@@ -16,15 +17,15 @@ export const router = createBrowserRouter([
     },
     {
         path: "/characters",
-        element: <CharacterListPage />
+        element: <Characters />
     },
     {
         path: "/create",
-        element: <CharacterFormPage />
+        element: <CreateCharacter />
     },
     {
-        path: "/update/:id",
-        element: <CharacterFormPage />
+        path: "update/:id",
+        element: <UpdateCharacter />
     },
     {
         path: "*",
