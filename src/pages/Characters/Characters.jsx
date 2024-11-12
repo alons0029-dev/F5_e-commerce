@@ -2,6 +2,7 @@ import { useState } from "react"
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { getAllCharacters } from "../../services/ApiCharactersService";
+import Header from "../../components/Header/Header";
 
 
 
@@ -29,6 +30,7 @@ const Characters = () => {
 
   return (
     <>
+        <Header />
         <Link to="/create">
             <button>Add New</button>
         </Link>

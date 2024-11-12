@@ -8,6 +8,7 @@ import { useState } from "react";
 
 // SERVICE Component
 import { createCharacter } from "../../services/ApiCharactersService.jsx";
+import Header from "../../components/Header/Header.jsx";
 
 /* FUNCTIONALITY */
 const CreateCharacter = () => {
@@ -38,61 +39,73 @@ const CreateCharacter = () => {
 	};
 
 	return (
-        <form onSubmit={addCharacter}>
-		    <input 
-			    required
-			    name="title"
-			    type="text"
-			    placeholder="Character Name"
-			    value={title}
-			    onChange={(event) => setTitle(event.target.value)}
-		    />
-		    <input 
-			    required
-			    name="artist"
-			    type="text"
-			    placeholder="Artist Name"
-			    value={artist}
-			    onChange={(event) => setArtist(event.target.value)}
-		    />
-		    <input 
-			    required
-			    name="description"
-			    type="text"
-			    placeholder="Add Description"
-			    value={description}
-			    onChange={(event) => setDescription(event.target.value)}
-		    />
-		    <input 
-			    required
-			    name="image"
-			    type="file"
-			    value={image}
-			    onChange={(event) => setImage(event.target.value)}
-		    />
-		    <input 
-			    required
-			    name="icon"
-			    type="file"
-			    value={icon}
-			    onChange={(event) => setIcon(event.target.value)}
-		    />
-		    <input 
-			    required
-			    name="files"
-			    type="file"
-			    value={files}
-			    onChange={(event) => setFiles(event.target.value)}
-		    />
-		    <button type="submit">
-			
-		    </button>
-		    <Link to="/">
-			    <button>
-				
-			    </button>
-		    </Link>
-	    </form>
+		<>
+			<Header />
+			<form onSubmit={addCharacter}>
+				<input 
+					required
+					name="title"
+					type="text"
+					placeholder="Character Name"
+					value={title}
+					onChange={(event) => setTitle(event.target.value)}
+				/>
+				<input 
+					required
+					name="artist"
+					type="text"
+					placeholder="Artist Name"
+					value={artist}
+					onChange={(event) => setArtist(event.target.value)}
+				/>
+				<input 
+					required
+					name="description"
+					type="text"
+					placeholder="Add Description"
+					value={description}
+					onChange={(event) => setDescription(event.target.value)}
+				/>
+				<div>
+					<p>Charcter Image</p>
+					<input 
+						required
+						name="image"
+						type="file"
+						value={image}
+						onChange={(event) => setImage(event.target.value)}
+					/>
+				</div>
+				<div>
+					<p>Character Icon</p>
+					<input 
+						required
+						name="icon"
+						type="file"
+						value={icon}
+						onChange={(event) => setIcon(event.target.value)}
+					/>
+				</div>
+				<div>
+					<p>Character Files</p>
+					<input 
+						required
+						name="files"
+						type="file"
+						value={files}
+						onChange={(event) => setFiles(event.target.value)}
+					/>
+				</div>
+				<button type="submit">
+					ADD
+				</button>
+				<Link to="/">
+					<button>
+						CANCEL
+					</button>
+				</Link>
+			</form>
+		</>
 	);
 };
 

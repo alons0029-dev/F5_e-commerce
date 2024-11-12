@@ -7,6 +7,7 @@ import { getAllCharacters } from "../../services/ApiCharactersService";
 
 // Pages
 import CharacterCard from "../../components/CharacterCard/CharacterCard";
+import Header from "../../components/Header/Header";
 
 /* FUNCTIONALITY */
 const Home = () => {
@@ -24,6 +25,7 @@ const Home = () => {
 
   return (
     <>
+      <Header />
       <h1>Home Page</h1>
       <div className="characters-container">
         {
