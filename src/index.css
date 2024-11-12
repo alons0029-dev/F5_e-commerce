@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quantico", "sans-serif";
+}
+
+/* FONTS */
+
+    /* Quantico */
+
+        /* Regular */
+        @font-face {
+          font-family: "Quantico";
+          font-style: normal;
+          font-weight: 400;
+          src: url(./assets/fonts/Quantico/Quantico-Regular.ttf);
+      };
+
+      /* Italic */
+      @font-face {
+          font-family: "Quantico";
+          font-style: italic;
+          font-weight: 400;
+          src: url(./assets/fonts/Quantico/Quantico-Italic.ttf);
+      };
+
+      /* Bold */
+      @font-face {
+          font-family: "Quantico";
+          font-style: normal;
+          font-weight: 700;
+          src: url(./assets/fonts/Quantico/Quantico-Bold.ttf);
+      };
+
+      /* Bold + Italic */
+      @font-face {
+          font-family: "Quantico";
+          font-style: italic;
+          font-weight: 700;
+          src: url(./assets/fonts/Quantico/Quantico-BoldItalic.ttf);
+      };
